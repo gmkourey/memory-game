@@ -1,0 +1,7 @@
+.playerImage {
+    height: 200px;
+    width:200px;
+    margin: 25px;
+    padding: 5px;
+    border: solid 1px lightgrey;
+}
