@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/style.css"],"names":[],"mappings":"AAAA,aACI,aACA,YACA,YACA,YACA,wBAA4B","file":"static/css/main.0a581895.css","sourcesContent":[".playerImage {\r\n    height: 100px;\r\n    width:100px;\r\n    margin: 25px;\r\n    padding: 5px;\r\n    border: solid 1px lightgrey;\r\n}\n\n\n// WEBPACK FOOTER //\n// ./src/css/style.css"],"sourceRoot":""}
