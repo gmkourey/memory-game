@@ -1,7 +1,13 @@
 .playerImage {
-    height: 100px;
-    width:100px;
+    height: 125px;
+    width:125px;
     margin: 25px;
     padding: 5px;
     border: solid 1px lightgrey;
+}
+.jumbotron {
+    text-align:center;
+}
+.jumbotron h3 {
+    margin-top: 25px;
 }

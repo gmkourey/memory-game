@@ -73,5 +73,20 @@
         "key": 15,
         "name": "Han Solo",
         "url": "https://pbs.twimg.com/profile_images/686999457477427201/BcyZHFXq_400x400.jpg"
+    },
+    {
+        "key": 16,
+        "name": "Spiderman",
+        "url": "https://hdqwalls.com/download/spiderman-homecoming-new-movie-poster-chinese-kh-2048x2048.jpg"
+    },
+    {
+        "key": 17,
+        "name": "Wolverine",
+        "url": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half/public/blogs/39242/2013/08/130648-130225.jpg"
+    },
+    {
+        "key": 18,
+        "name": "Martin Riggs",
+        "url": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-lethal-weapon-2-mel-gibson.jpg"
     }
  ]
